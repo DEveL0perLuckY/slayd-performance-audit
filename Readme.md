@@ -64,13 +64,13 @@
 ## 4. 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/DEveL0perLuckY/slayd-performance-audit/blob/main/test1.png?raw=true" width="250" alt="Task App Screenshot" />
+  <img src="https://github.com/DEveL0perLuckY/slayd-performance-audit/blob/main/test1.png?raw=true" width="250" alt="Test App Screenshot" />
 </p>
 <p align="center">
-  <img src="https://github.com/DEveL0perLuckY/slayd-performance-audit/blob/main/test2.png?raw=true" width="250" alt="Task App Screenshot" />
+  <img src="https://github.com/DEveL0perLuckY/slayd-performance-audit/blob/main/test2.png?raw=true" width="250" alt="Test App Screenshot" />
 </p>
 <p align="center">
-  <img src="https://github.com/DEveL0perLuckY/slayd-performance-audit/blob/main/test3.png?raw=true" width="250" alt="Task App Screenshot" />
+  <img src="https://github.com/DEveL0perLuckY/slayd-performance-audit/blob/main/test3.png?raw=true" width="250" alt="Test App Screenshot" />
 </p>
 
 ## 5. Side‑by‑Side Comparison
